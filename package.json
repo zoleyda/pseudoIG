@@ -1,7 +1,7 @@
 {
   "name": "pseudoIg",
   "version": "0.1.0",
-  "homepage": "https://zoleyda.github.io/pseudoIG",
+  "homepage": "https://zoleyda.github.io/pseudoIG/",
   "private": true,
   "devDependencies": {
     "gh-pages": "^1.0.0",
